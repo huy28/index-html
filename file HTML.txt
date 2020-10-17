@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>website</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="bai tap kt.css">
+</head>
+<body>
+	<div class="container">
+		<div class="menu">
+			<div style="background-image: url(https://cdnimg.vietnamplus.vn/uploaded/fsmsr/2015_01_30/frech_grill_table_setup.jpg); width: 100%; height: 80px;">
+				<ul>
+				<li><a href="#" class="activi">HOME <span class="caret"></span></a></a></li>
+				<span class="caret"></span>
+				<li><a href="#">ABOUT</a></li>
+				<li><a href="#">MENU</a></li>
+				<li><a href="#">GALLERY</a></li>
+				<li><a href="#">RESERVATION</a></li>
+				<li><a href="#">BLOG</a></li>
+				<li><a href="#">MORE</a></li>
+			</ul>
+			</div>
+			<div class="banner">
+			
+				<div style="background-image: url(https://cdnimg.vietnamplus.vn/uploaded/fsmsr/2015_01_30/frech_grill_table_setup.jpg); height: 100%; width:100%; text-align: center;">
+			<h1>Welcome to the <br>
+				Mizrahi Restaurant</h1>
+				
+				<p>The best Kosher food restaurant in Washington, DC</p>
+				<font size="1px" color="white">Book online call(555)123-4567</font>
+
+				<div class="drop">
+				<button value="BOOKONLINE" class="dropbtn" >BOOK ONLINE</button>
+			</div>
+			</div>
+		</div>
+		<div class="cover">
+			<h4>OUR RESTAURANT AWARDS</h4>
+			<div class="can">
+				<img src="https://www.hoteljob.vn/uploads/images/15-12-30-14/Travelerschoice-2015-6.jpg" height="100px" width="100px" margin-left="10px">
+				<br>
+				<font size="3px">Judgment of Paris</font>
+				<br>
+				<img src="https://tuananhict.files.wordpress.com/2014/04/star.png" height="10%" width="10px">
+				<img src="https://tuananhict.files.wordpress.com/2014/04/star.png" height="10%" width="10px">
+				<img src="https://tuananhict.files.wordpress.com/2014/04/star.png" height="10%" width="10px">
+				<br>
+				<font size="1px" color="gray">2014</font>
+			</div>
+			<div class="can1">
+				<img src="https://caffedellamore.com/wp-content/uploads/2015/08/11.png" height="100px" width="100px">
+				<br>
+				<font size="3px">Great Chardonnay</font>
+				<br>
+				<img src="https://tuananhict.files.wordpress.com/2014/04/star.png" height="10%" width="10px">
+				<img src="https://tuananhict.files.wordpress.com/2014/04/star.png" height="10%" width="10px">
+				<img src="https://tuananhict.files.wordpress.com/2014/04/star.png" height="10%" width="10px">
+				<br>
+				<font size="1px" color="gray">2014</font>
+			</div>
+			<div class="can2">
+				<img src="https://biancaristorante.pl/wp-content/uploads/2017/12/Michelin-2017.png" height="100px" width="100px">
+				<br>
+				<font size="3px">Mchelin Guide</font>
+				<br>
+				<img src="https://tuananhict.files.wordpress.com/2014/04/star.png" height="10%" width="10px">
+				<img src="https://tuananhict.files.wordpress.com/2014/04/star.png" height="10%" width="10px">
+				<img src="https://tuananhict.files.wordpress.com/2014/04/star.png" height="10%" width="10px">
+				<br>
+				<font size="1px" color="gray">2014</font>
+			</div>
+			<div class="can3">
+				<img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032014/yelp_peoplelove_us_logo_.png?itok=Uqw1UwCA" width="100px" height="100px">
+				<br>
+				<font size="3px">La Liste</font>
+				<br>
+				<img src="https://tuananhict.files.wordpress.com/2014/04/star.png" height="10%" width="10px">
+				<img src="https://tuananhict.files.wordpress.com/2014/04/star.png" height="10%" width="10px">
+				<img src="https://tuananhict.files.wordpress.com/2014/04/star.png" height="10%" width="10px">
+				<br>
+				<font size="1px" color="gray">2014</font>
+			</div>
+		</div>
+		<div class="fiter">
+			<div id="one">
+				<div style="background-image: url(https://media.cooky.vn/recipe/g1/9195/s640/cooky-recipe-cover-r9195.jpg); height: 100%; width: 190px;">
+					STARTERS
+				</div>
+				
+			</div>
+			<div id="two">
+				<img src="https://image.thanhnien.vn/1080/uploaded/minhgiao/2020_09_01/salmon-salad_oydr.jpg">
+			</div>
+			<div id="one">
+				<img src="https://vtimes.com.au/up/images/10-18/3108237-cupcake-chanh-kem-bo-viet-0.jpg">
+			</div>
+			<div id="two">
+				<img src="https://winehamper.vn/wp-content/uploads/2018/09/test-3.jpg" width="auto" height="auto">
+		</div>
+		<div class="were">
+			<h3>A HAPPY CUSTOMER IS OUR CUSTOMER...</h3>
+				<div id="box1">
+				<p>While I'm not a Jewish and I was ever aware of what constitutes Kosher food, my first dinner at a Kosher place changed my mind completely! This philosophy is so vegan-friendly!</p>
+
+			</div>
+			<div id="box1">
+				<p>While I'm not a Jewish and I was ever aware of what constitutes Kosher food, my first dinner at a Kosher place changed my mind completely! This philosophy is so vegan-friendly!</p>
+			
+		</div>
+		<div class="light">
+			<h5>CHEF RECOMMENDS</h5>
+			<div id="simple1">
+				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1XONjKwg4yxV9rmthvnEuO16sfVQh9pyFnQ&usqp=CAU" width="100%" height="100px">
+				<p>Israeli Sampler Plate</p>
+				<h1>$18.00</h1>
+			</div>
+			<div id="simple2">
+				<img src="https://caodongthinh.com/wp-content/uploads/2019/09/b84khoai-lang.jpg" height="100px" width="100%">
+				<p>Israeli Breakfast</p>
+				<h1>$34.00</h1>
+			</div>
+			<div id="simple3">
+				<img src="https://media.cooky.vn/recipe/g2/11145/s320x320/recipe11145-prepare-step3-636570749368315594.jpg" width="100%" height="100px">
+				<p>Jachnun Plate</p>
+				<h1>$23.00</h1>
+			</div>
+			<div id="simple4">
+				<img src="https://www.huongnghiepaau.com/wp-content/uploads/2019/12/hoc-lam-banh-dai-loan.jpg" width="100%" height="100px">
+				<p>Garlic Bread Basket</p>
+				<h1>$34.00</h1>
+			</div>
+			
+			</div>
+		</div>
+		<div class="cheef">
+			<div id="photo">
+				<img src="https://duhocact.com/images/content/Dau_bep.jpg" height="100%" width="100%">
+				
+			</div>
+			<div id="now">
+				<h2>WELCONE TO THE MIZRAHI</h2>
+				<link rel="stylesheet" type="text/css" href="https://www.clipartmax.com/png/middle/107-1071928_decor-line-decor-line.png">
+				<h4>Are you looking to enjoy a truly Kosher dinner with your family or friends?</h4>
+				<font size="1px" color="#a0a0a0">If so, come visit ourtraditionnally Israeli menu range, enticed by the best Israeli dishes and drink, enhanced by the top-grade quality of food ingredients and ceremonial cooking techniques!</font><br>
+
+				<button type="button" class="btn btn-default">GALLERY</button>
+			</div>
+		</div>
+		<div class="middle">
+			<div id="invall">
+				<h1>INTERIOR</h1>
+				<h6>Do you value relaxing, friendly atmosphere? Our interior will sway yuor mood!</h6>
+				<font size="1px" color="#a0a0a0">The Mizahi restaurant offers a cozy, home-like atmosphere, that reminds one about traditional Jewish family dinner times!</font><br>
+				<br>
+				 <button type="button" class=" btn-default">GALLERY</button>
+			</div>
+			<div id="control">
+				<img src="https://www.uplevo.com/blog/wp-content/uploads/2019/07/kinh-doanh-nha-hang-thanh-cong.jpg" height="100%" width="100%">
+			</div>
+		</div>
+		<div class="banner3">
+			<div id="vien"></div>
+			<div id="Mizahi">
+				<b>Israeli Kosher Dishes & Wine</b>
+				<br>
+				<font size="3px">MAZRAHI</font><br>
+				<p>The best Kosher Israeli restaurant in the<br> neighborhood, Mizrahi offers you a wide range of <br>
+					Kosher dishes and traditional
+					<br>
+				Israeli drinks!</p>
+			</div>
+			<div id="Contact">
+				<font size="4px">Contract us</font><br>
+				<br>
+				<img src="https://png.pngtree.com/png-vector/20190215/ourlarge/pngtree-vector-location-icon-png-image_515424.jpg" height="10px" width="10px"><font size="1px" >6087 Richmond hwy, Alaxandria, VA</font><br>
+				
+				<img src="https://img2.freepng.es/20190504/lqc/kisspng-vector-graphics-mobile-phones-clip-art-silhouette-videa-5ccdbf98a5c012.4718877515569878006789.jpg" height="10px" width="10px"><font size="1px" color="green">703 329 0632</font><br>
+				
+				<img src="https://e7.pngegg.com/pngimages/330/546/png-clipart-email-computer-icons-mobile-phones-text-messaging-service-message-miscellaneous-angle.png" height="10px" width="10px"><font size="1px" color="green">  ifo@demolink.org</font>
+
+			</div>
+			<div id="Opening">
+				<font size="4px">Opening hours</font><br>
+				<br>
+				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxZbyFWXuN8yYpx4KYj5PBaYbU-dHb0vNRdw&usqp=CAU" width="10px" height="10px"><font size="1px">Mo-Fr 11:00-00:00</font><br>
+				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxZbyFWXuN8yYpx4KYj5PBaYbU-dHb0vNRdw&usqp=CAU" width="10px" height="10px"><font size="1px">Sa-Su 15:00-00:00</font>
+			</div>
+		</div>
+		
+		</div>
+		
+	</div>
+
+
+
+</body>	
+</html>

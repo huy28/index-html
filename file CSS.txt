@@ -1,0 +1,359 @@
+a{
+	text-decoration: none;
+	color: black;
+	display: block;
+}
+
+.container{
+	height: 1800px;
+	width: 100%;
+	margin: auto;
+	background:  white;
+}
+.menu ul li{
+	display: inline-block;
+	padding: 10px 10px;
+	
+}
+.banner{
+	width: 100%;
+	height: 200px;
+	background-color: white;
+	text-align: center;
+}
+.cover{
+	width: 100%;
+	height: 200px;
+	background-color: white;
+}
+.fiter{
+	width: 100%;
+	height: 200px;
+	background-color: white;
+}
+.were{
+	width: 100%;
+	height: 200px;
+	background-color: white;
+
+}
+h3{
+	text-align: center;
+	font-family: italic;
+	padding-top: 20px;
+}
+#box1{
+	width: 50%;
+	height: 150px;
+	float: left;
+	text-align: left;
+	font-size: 18px;
+	color: gray;
+	font-family: italic;
+	border-bottom: 1px solid #2e2e2e;
+
+} 
+
+.light{
+	width: 100%;
+	height: 100px;
+	background-color: white;
+}
+h5{
+	text-align: center;
+	font-family: italic;
+}
+#one{
+	width: 25%;
+	height: 170px;
+	background-color: white;
+	float: left;
+}
+#two{
+	width: 25%;
+	height: 170px;
+	background-color: white;
+	float: left;
+}
+.cheef{
+	width: 100%;
+	height: 220px;
+	background-color: white;
+}
+#photo{
+	height: 50%;
+	height: 200px;
+	background-color: white;
+	float: left;
+}
+#now{
+	width: 50%;
+	height: 200px;
+	float: left;
+	background-color: red;
+	float: left;
+}
+h6{
+	text-align: center;
+}
+
+.middle{
+	width: 100%
+	height: 200px;
+	background-color: white;
+
+}
+h4{
+	text-align: center;
+	font-size: 30px;
+}
+.banner h1{
+	text-align: center;
+	color: green;
+	font-size: 30px;
+	margin-top: 10px;
+
+
+
+}
+.dropbtn{
+	background-color: green;
+	border: none;
+	cursor: pointer;
+	color: white;
+
+}
+.banner p{
+	font-size: 10px;
+	color: white;
+	text-align: center;
+}
+h2{
+	text-align: center;
+	color: white;
+}
+#one img{
+	height: 100%;
+	width: 190px;
+	float: left;
+}
+#two img{
+	height: 100%;
+	width: 190px;
+}
+.can{
+	text-align: center;
+	width: 25%;
+	height: 170px;
+	float: left;
+}
+.can1{
+	text-align: center;
+	width: 25%;
+	height: 170px;
+	float: left;
+}
+.can2{
+	text-align: center;
+	width: 25%;
+	height: 170px;
+	float: left;
+}
+.can3{
+	text-align: center;
+	width: 25%;
+	height: 170px;
+	float: left;
+}
+
+#simple1{
+	width: 25%;
+	height: 170px;
+	background-color: white;
+	float: left;
+
+}
+#simple2{
+	width: 25%;
+	height: 170px;
+	background-color: white;
+	float: left;
+}
+#simple3{
+	width: 25%;
+	height: 170px;
+	background-color: white;
+	float: left;
+}
+#simple4{
+	width: 25%;
+	height: 170px;
+	background-color: white;
+	float: left;
+}
+#photo{
+	width: 50%;
+	height: 200px;
+	background-color: white;
+	float: left;
+
+}
+#now{
+	width: 48%;
+	height: 200px;
+	background-color: white;
+	float: left;
+	text-align: left;
+	margin-left: 10px;
+
+}
+h2{
+	font-size: 23px;
+	font-family:italic ;
+	font-weight: normal;
+	text-align: center;
+	color: black;
+}
+#now h4{
+	font-size: 13px;
+	font-weight: bold;
+	text-align: left;
+}
+/*#now p{
+	font-size: 10.3px;
+	color: #a0a0a0;
+	font-weight: bold;
+	font-family: Calibri;
+}*/
+#invall{
+	width: 50%;
+	height: 200px;
+	background-color: white;
+	float: left;
+	text-align: left;
+	
+}
+#control{
+	width: 50%;
+	height: 220px; 
+	float: left;
+	
+}
+.banner3{
+	width: 100%;
+	height: 300px;
+	background-color: #d7d7d7;
+}
+#vien{
+	width: 10%;
+	height: 100px;
+	background-color:#d7d7d7 ;
+	float: left;
+}
+#Mizahi{
+	width: 30%;
+	height: 100px;
+	float: left;
+	background-color: #d7d7d7;
+
+
+}
+#Contact{
+	width: 30%;
+	height: 100px;
+	background-color: #d7d7d7;
+	float: left;
+}
+#Opening{
+	width: 30%;
+	height: 100px;
+	float: left;
+	background-color: #d7d7d7;
+}
+#Mizahi b{
+	font-size: 7px;
+	color: #a0a0a0;
+	font-family: Courier New;
+	text-align: center;
+
+	
+}
+/*#Mizahi h1{
+	font-size: 20px;
+	font-family:Trebuchet MS  ;
+	font-weight: normal;
+	*/
+	
+}
+#Mizahi p{
+	font-size: 8.5px;
+	font-family: Trebuchet MS;
+	margin-left: 20px;
+	padding-bottom: 50px;
+}
+#simple1 p{
+	font-size: 8px;
+	text-align: center;
+	font-weight: normal;
+} 
+#simple1 h1{
+	font-family: Lucida Sans Unicode;
+	font-weight: normal;
+	font-size: 15px;
+	text-align: center;
+
+}
+#simple2 p{
+	font-size: 8px;
+	text-align: center;
+	font-weight: normal;
+} 
+#simple2 h1{
+	font-family: Lucida Sans Unicode;
+	font-weight: normal;
+	font-size: 15px;
+	text-align: center;
+
+}
+#simple3 p{
+	font-size: 8px;
+	text-align: center;
+	font-weight: normal;
+} 
+#simple3 h1{
+	font-family: Lucida Sans Unicode;
+	font-weight: normal;
+	font-size: 15px;
+	text-align: center;
+
+}
+#simple4 p{
+	font-size: 8px;
+	text-align: center;
+	font-weight: normal;
+} 
+#simple4 h1{
+	font-family: Lucida Sans Unicode;
+	font-weight: normal;
+	font-size: 15px;
+	text-align: center;
+
+}
+.invall p{
+	font-size: 4px;
+	color: #a0a0a0;
+	font-weight: bold;
+	font-family: Calibri;
+}
+.menu ul li a.activi{
+	color: green;
+}
+#Mizahi p{
+	font-size: 8px;
+	color: #a0a0a0;
+	font-style: normal;
+}
+./*btn-default{
+	background-color: white;
+
+}*/
